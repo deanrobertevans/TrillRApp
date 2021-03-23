@@ -50,5 +50,6 @@ Below is an example of a weather event taking place and you can see that there a
 ![Good](images/ReallyBad.png)
 
 
-Not only is rain bad but wind as well. Wind might not always be consistent like rain but large gusts of wind can interfere with the microphone making animal vocalizations unrecognizable. Look out for large bouts of noise that span the majority of the height of a spectrogram.
+Wind can also make a recording unsuitable for interpretation. Wind might not always be consistent like rain but large gusts of wind can interfere with the microphone making animal vocalizations unrecognizable. Look out for large bouts of noise that span the majority of the height of a spectrogram.
+
 ![Good](images/Bad.png)
