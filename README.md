@@ -40,6 +40,7 @@ A good recording is one that clearly shows animal vocalizations with little to n
 Sometimes noise but me inherent due to electrical interference, degrading microphones, or perhaps a running stream nearby. You will get a good idea if this is the case if all recordings have similar noise within them. Take the two recordings below as an example. Both of these recordings were taken at the same location days apart. You will notice they both look a lot noisier than the above image. This location unfortunately has some inherent noise that can not be remedied by selecting a different recording. As long as an interpreter can distinguish species in the recording these are acceptable. Make sure to listen to the recording to help make your decision!
 
 ![Good](images/GoodNoise1.png)
+
 ![Good](images/GoodNoise2.png)
 
 #### Bad Recordings
