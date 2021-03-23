@@ -1,6 +1,8 @@
 # TrillRApp <img src="images/CHSPICO.svg" align="right" width="110" height="110"/>
 The TrillR App was developed to work with the TrillR R package available here: <https://github.com/deanrobertevans/TrillR>. This application works as a user interface to select recordings for interpratation with the ability to view spectrograms and listen to recordings.
 
+* Get the latest release here: <https://github.com/deanrobertevans/TrillRApp/releases>
+
 ![Landing Page](images/LandingPage.png) 
 
 ## App Layout
